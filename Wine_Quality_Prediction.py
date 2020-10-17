@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 13 23:49:27 2020
-
-@author: hp
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -147,12 +140,10 @@ lr.fit(features_train,label_train)
 label_pred = lr.predict(features_test)
 
 from sklearn.metrics import confusion_matrix, accuracy_score
-cm = confusion_matrix(label_test,label_pred)
-ac = accuracy_score(label_test,label_pred)
+cm = confusion_matrix(label_test,label_pred)   #calulating the accuracy of model
+ac = accuracy_score(label_test,label_pred)     #calulating the accuracy of model
 print(cm)
 print(ac*100)
-
-# 98% accuracy with Logistic Regression
 
 #2. Decision Tree 
 from sklearn.tree import DecisionTreeClassifier
