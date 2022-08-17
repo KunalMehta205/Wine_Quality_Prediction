@@ -1,5 +1,5 @@
 # Wine_Quality_Prediction
-Analyzing the quality of wine 
+Analysis of quality of wine 
 
 In this project I have analysed the quality of Red Wine using the data visualization techniques and graphs. 
 
