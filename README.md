@@ -1,4 +1,4 @@
-# Wine_Quality_Prediction
+# Wine_Quality_Prediction using Machine Learning
 Analysis of quality of wine 
 
 In this project I have analysed the quality of Red Wine using the data visualization techniques and graphs. 
