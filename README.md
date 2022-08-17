@@ -1,7 +1,7 @@
 # Wine_Quality_Prediction using Machine Learning
 Analysis of quality of wine 
 
-In this project I have analysed the quality of Red Wine using various Machine Learning Algorithms.
+In this project I have predicted the quality of Red Wine using various Machine Learning Algorithms.
 
 # Attribute Information:
 Input variables:<br>
